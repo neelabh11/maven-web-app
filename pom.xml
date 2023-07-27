@@ -8,7 +8,7 @@
   <name>amazon_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
 	//added new line
-	Expose
+	Expose:7070
 
 
 
