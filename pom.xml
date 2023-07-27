@@ -7,9 +7,6 @@
   <version>1.0-RELEASE</version>
   <name>amazon_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
-	//added new line
-      Expose:7070
-	hello
 
   <dependencies>
 
