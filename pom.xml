@@ -10,7 +10,8 @@
 	//added new line
       Expose:7070
 	
-  	RUN instruction
+  RUN instruction
+	cmd instruction
 
 
 
